@@ -1,7 +1,0 @@
-<html>
-<head>
-<head/>
-<body>
-<h1>Ola mundo<>
-<body/>h1/
-<html/>
